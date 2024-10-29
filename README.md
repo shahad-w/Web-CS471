@@ -1,1 +1,1 @@
-# Web-CS471
+# wellcome to CS471 – Web Technologies course
